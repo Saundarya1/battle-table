@@ -67,7 +67,7 @@ function App() {
     return value;
   }
 
-  const handleGunneryChange = (index, event) => {
+  const handleGunneryChange = (index, event, piloting) => {
     const value = parseInt(event.target.value);
 
     if (value < 0) {
@@ -82,12 +82,13 @@ function App() {
         const updatedData = [...prevTableData];
         updatedData[index].gunnery = value;
         setGunnery(value);
+        setPiloting(piloting);
         valueBVCalculation(Piloting, value, index);
         return updatedData;
       }));
   };
 
-  const handlePilotingChange = (index, event) => {
+  const handlePilotingChange = (index, event, gunnery) => {
     const value = parseInt(event.target.value);
 
     if (value < 0) {
@@ -102,6 +103,7 @@ function App() {
         const updatedData = [...prevTableData];
         updatedData[index].piloting = value;
         setPiloting(value);
+        setGunnery(gunnery);
         valueBVCalculation(value, Gunnery, index);
         return updatedData;
       }));
@@ -189,8 +191,8 @@ function App() {
                   <td>{row.tons}</td>
                   <td>{row.BV}</td>
                   <td>{row.calculated_BV}</td>
-                  <td><input type='number' min={0} max={8} value={row.gunnery} onChange={(event) => handleGunneryChange(index, event)} /></td>
-                  <td><input type='number' min={0} max={8} value={row.piloting} onChange={(event) => handlePilotingChange(index, event)} /></td>
+                  <td><input type='number' min={0} max={8} value={row.gunnery} onChange={(event) => handleGunneryChange(index, event, row.piloting)} /></td>
+                  <td><input type='number' min={0} max={8} value={row.piloting} onChange={(event) => handlePilotingChange(index, event, row.gunnery)} /></td>
                   <td><button onClick={() => addToLance(row, lanceBV, row.calculated_BV)}>Add to lance</button></td>
                 </tr>)}
             </tbody>
