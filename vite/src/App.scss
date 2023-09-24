@@ -1,0 +1,136 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  text-align: center;
+  align-items: center;
+}
+
+
+$main: rgb(173, 230, 173);
+$support: rgb(216, 194, 223);
+
+
+.bg-img {
+  position: absolute;
+  opacity: 50%;
+  z-index: -1;
+
+  img {
+    width: 100vw;
+    height: auto;
+  }
+}
+
+.mech-table,
+.user-table {
+
+  table {
+
+    th {
+      border: 2px;
+      border-style: solid;
+      border-color: black;
+      background-color: white;
+    }
+
+    tr {
+      height: 40px;
+    }
+
+    td {
+      padding: 5px;
+    }
+
+    input {
+      width: 40px;
+    }
+
+  }
+
+}
+
+.mech-table {
+
+  table {
+    tr:nth-child(1n) {
+      td {
+        border: 1px;
+        border-style: solid;
+        border-color: black;
+        background-color: $main;
+      }
+    }
+
+    tr:nth-child(2n) {
+      td {
+        border: 1px;
+        border-style: solid;
+        border-color: black;
+        background-color: rgb(233, 220, 220);
+      }
+    }
+  }
+
+}
+
+.battle-tables {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.user-table {
+
+  table {
+    tr {
+      td {
+        border: 1px;
+        border-style: solid;
+        border-color: black;
+        background-color: $support;
+      }
+    }
+  }
+}
+
+.percent-table {
+  background-color: $support;
+  margin: 50px;
+  margin-bottom: -50px;
+  border-radius: 10%;
+
+  table {
+    width: 250px;
+    height: 250px;
+    font-size: 13px;
+  }
+
+  align-self: self-start;
+}
+
+.userBV-input {
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+
+  input {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: $support;
+  }
+}
+
+Nav{
+  background-color: $main;
+  border-radius: 10%;
+
+  .custom-search{
+    margin-top: 7px;
+    margin-right: -40px;
+    margin-left: -30px;
+  }
+}

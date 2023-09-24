@@ -150,21 +150,6 @@ function App() {
     loadSavedData();
   }, []);
 
-
-  /*function convertToPDF() {
-
-    const table = tableRef.current;
-
-    html2canvas(table).then((canvas) => {
-        const imgData = canvas.toDataURL('image/png');
-        const pdf = new jsPDF();
-  
-        pdf.addImage(imgData, 'PNG', 10, 10);
-        pdf.save('table.pdf');
-      });
-
-}*/
-
   const convertToPDF = async () => {
     const table = tableRef.current;
     const pdf = new jsPDF('p', 'pt', 'letter');
