@@ -5,8 +5,7 @@ import mech from './assets/images/mech-img.jpg';
 import { mechs } from './assets/arrays/mechs';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import Dropdown from 'react-bootstrap/Dropdown';
 import PercentTable from '../src/components/PercentTable';
 import Filters from '../src/components/Filters';
 import html2canvas from '../node_modules/html2canvas/dist/html2canvas';
@@ -150,21 +149,6 @@ function App() {
     loadSavedData();
   }, []);
 
-
-  /*function convertToPDF() {
-
-    const table = tableRef.current;
-
-    html2canvas(table).then((canvas) => {
-        const imgData = canvas.toDataURL('image/png');
-        const pdf = new jsPDF();
-  
-        pdf.addImage(imgData, 'PNG', 10, 10);
-        pdf.save('table.pdf');
-      });
-
-}*/
-
   const convertToPDF = async () => {
     const table = tableRef.current;
     const pdf = new jsPDF('p', 'pt', 'letter');
@@ -192,23 +176,75 @@ function App() {
     <div className="App">
       <div className='bg-img'><img src={mech} /></div>
 
-      <Filters
-        initialData={initialData}
-        setTableData={setTableData}
-      />
+      <div className="d-none d-md-block col-md-8 col-lg-5 d-flex justify-content-center">
+        <Filters
+          initialData={initialData}
+          setTableData={setTableData}
+        />
+      </div>
 
-      <PercentTable
-        Piloting={Piloting}
-        Gunnery={Gunnery}
-        getThirdArrayValue={getThirdArrayValue}
-      />
+      <div className="d-block d-md-none col-12 d-flex justify-content-center">
+        <Dropdown autoClose="outside" className='col-12'>
+          <Dropdown.Toggle className="col-12 mt-2 mt-md-0" variant="success" id="role-dropdown">
+            Filters
+          </Dropdown.Toggle>
+          <Dropdown.Menu>
+            <Dropdown.Item>
+              <Filters
+                initialData={initialData}
+                setTableData={setTableData}
+              />
+            </Dropdown.Item>
+          </Dropdown.Menu>
+        </Dropdown>
 
+      </div>
+
+      <div className='col-md-12 d-flex justify-content-start'>
+        <PercentTable
+          Piloting={Piloting}
+          Gunnery={Gunnery}
+          getThirdArrayValue={getThirdArrayValue}
+        />
+      </div>
 
       <div className='userBV-input'> <label for="userBVLance-input">Lance BV</label> <input id='userBVLance-input' value={lanceBV} onChange={(event) => handleLanceBVChange(event)}></input></div>
       <div className='col-6'><button type="button" class="btn btn-success mb-3" onClick={saveTable}>Save</button></div>
       <div className='col-6'><button class="btn btn-success mb-3" onClick={convertToPDF}>Convert to PDF</button></div>
 
-      <div className='battle-tables'>
+      <div className='battle-tables d-flex flex-column flex-lg-row'>
+
+        <div className='user-table'>
+          <table ref={tableRef}>
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Role</th>
+                <th>Rules</th>
+                <th>Tons</th>
+                <th>BV</th>
+                <th>Calculated BV</th>
+                <th>Gunnery</th>
+                <th>Piloting</th>
+              </tr>
+            </thead>
+            <tbody>
+              {selectedRows.map((row, index) =>
+                <tr key={index}>
+                  <td>{row.name}</td>
+                  <td>{row.role}</td>
+                  <td>{row.rules}</td>
+                  <td>{row.tons}</td>
+                  <td>{row.BV}</td>
+                  <td>{row.calculated_BV}</td>
+                  <td>{row.gunnery}</td>
+                  <td>{row.piloting}</td>
+                  <td><button onClick={() => cutFromLance(row, lanceBV, row.calculated_BV)}>Delete</button></td>
+                </tr>)}
+            </tbody>
+          </table>
+        </div>
+
         <div className='mech-table'>
           <table>
             <thead>
@@ -241,36 +277,6 @@ function App() {
           </table>
         </div>
 
-        <div className='user-table'>
-          <table ref={tableRef}>
-            <thead>
-              <tr>
-                <th>Name</th>
-                <th>Role</th>
-                <th>Rules</th>
-                <th>Tons</th>
-                <th>BV</th>
-                <th>Calculated BV</th>
-                <th>Gunnery</th>
-                <th>Piloting</th>
-              </tr>
-            </thead>
-            <tbody>
-              {selectedRows.map((row, index) =>
-                <tr key={index}>
-                  <td>{row.name}</td>
-                  <td>{row.role}</td>
-                  <td>{row.rules}</td>
-                  <td>{row.tons}</td>
-                  <td>{row.BV}</td>
-                  <td>{row.calculated_BV}</td>
-                  <td>{row.gunnery}</td>
-                  <td>{row.piloting}</td>
-                  <td><button onClick={() => cutFromLance(row, lanceBV, row.calculated_BV)}>Delete</button></td>
-                </tr>)}
-            </tbody>
-          </table>
-        </div>
       </div>
 
     </div>
