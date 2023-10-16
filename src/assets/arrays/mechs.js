@@ -21746,6 +21746,2506 @@ export const mechs = [
         calculated_BV: 1831,
         gunnery: 4,
         piloting: 4
+      },
+      {
+        id: 2000,
+        name: "Daikyu DAI-03",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1692,
+        calculated_BV: 1692,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2001,
+        name: "Deva C-DVA-O Invictus",
+        role: "Sniper",
+        tons: 70,
+        BV: 1584,
+        calculated_BV: 1584,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2002,
+        name: "Deva C-DVA-OA Dominus",
+        role: "Brawler",
+        tons: 70,
+        BV: 1727,
+        calculated_BV: 1727,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2003,
+        name: "Deva C-DVA-OB Infernus",
+        role: "Sniper",
+        tons: 70,
+        BV: 1713,
+        calculated_BV: 1713,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2004,
+        name: "Deva C-DVA-OC Comminus",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1743,
+        calculated_BV: 1743,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2005,
+        name: "Deva C-DVA-OD Luminos",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1711,
+        calculated_BV: 1711,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2006,
+        name: "Dragoon AEM-01",
+        role: "Sniper",
+        tons: 70,
+        BV: 1669,
+        calculated_BV: 1669,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2007,
+        name: "Excalibur EXC-B1",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1549,
+        calculated_BV: 1549,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2008,
+        name: "Excalibur EXC-B2",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1533,
+        calculated_BV: 1533,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2009,
+        name: "Excalibur EXC-B2b",
+        role: "Missile Boat",
+        tons: 70,
+        BV: 1715,
+        calculated_BV: 1715,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2010,
+        name: "Excalibur EXC-C1",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1637,
+        calculated_BV: 1637,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2011,
+        name: "Excalibur EXC-C1 (Cernunnos)",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1778,
+        calculated_BV: 1778,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2012,
+        name: "Excalibur EXC-CS",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2174,
+        calculated_BV: 2174,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2013,
+        name: "Excalibur EXC-D1",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1949,
+        calculated_BV: 1949,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2014,
+        name: "Flamberge A",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2575,
+        calculated_BV: 2575,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2015,
+        name: "Flamberge B",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2750,
+        calculated_BV: 2750,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2016,
+        name: "Flamberge D",
+        role: "Juggernaut",
+        tons: 70,
+        BV: 2357,
+        calculated_BV: 2357,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2017,
+        name: "Flamberge Prime",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2266,
+        calculated_BV: 2266,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2018,
+        name: "Gallant GLT-7-0",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1436,
+        calculated_BV: 1436,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2019,
+        name: "Gallowglas GAL-1GLS",
+        role: "Brawler",
+        tons: 70,
+        BV: 1695,
+        calculated_BV: 1695,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2020,
+        name: "Gallowglas GAL-2GLS",
+        role: "Brawler",
+        tons: 70,
+        BV: 1857,
+        calculated_BV: 1857,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2021,
+        name: "Gallowglas GAL-2GLSA",
+        role: "Brawler",
+        tons: 70,
+        BV: 1771,
+        calculated_BV: 1771,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2022,
+        name: "Gallowglas GAL-3GLS",
+        role: "Brawler",
+        tons: 70,
+        BV: 2291,
+        calculated_BV: 2291,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2023,
+        name: "Gallowglas GAL-4GLS",
+        role: "Brawler",
+        tons: 70,
+        BV: 1944,
+        calculated_BV: 1944,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2024,
+        name: "Gallowglas GAL-4GLSA",
+        role: "Brawler",
+        tons: 70,
+        BV: 2017,
+        calculated_BV: 2017,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2025,
+        name: "Gallowglas WD",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2094,
+        calculated_BV: 2094,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2026,
+        name: "Grasshopper GHR-5J",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1354,
+        calculated_BV: 1354,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2027,
+        name: "Grasshopper GHR-6K",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1597,
+        calculated_BV: 1597,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2028,
+        name: "Grasshopper GHR-7K",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1806,
+        calculated_BV: 1806,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2029,
+        name: "Grasshopper GHR-7K 'Gravedigger'",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2084,
+        calculated_BV: 2084,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2030,
+        name: "Grasshopper GHR-8K",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1754,
+        calculated_BV: 1754,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2031,
+        name: "Grasshopper GHR-C",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1366,
+        calculated_BV: 1366,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2032,
+        name: "Grizzly",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2219,
+        calculated_BV: 2219,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2033,
+        name: "Grizzly 2",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2195,
+        calculated_BV: 2195,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2034,
+        name: "Grizzly 3",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2331,
+        calculated_BV: 2331,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2035,
+        name: "Guillotine GLT-3N",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1418,
+        calculated_BV: 1418,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2036,
+        name: "Guillotine GLT-5M",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1472,
+        calculated_BV: 1472,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2037,
+        name: "Guillotine GLT-6WB",
+        role: "Brawler",
+        tons: 70,
+        BV: 1672,
+        calculated_BV: 1672,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2038,
+        name: "Guillotine GLT-6WB2",
+        role: "Sniper",
+        tons: 70,
+        BV: 1635,
+        calculated_BV: 1635,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2039,
+        name: "Guillotine GLT-6WB3",
+        role: "Brawler",
+        tons: 70,
+        BV: 1741,
+        calculated_BV: 1741,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2040,
+        name: "Guillotine GLT-7M",
+        role: "Brawler",
+        tons: 70,
+        BV: 1877,
+        calculated_BV: 1877,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2041,
+        name: "Guillotine GLT-8D",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1891,
+        calculated_BV: 1891,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2042,
+        name: "Guillotine IIC",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2377,
+        calculated_BV: 2377,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2043,
+        name: "Guillotine IIC 2",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2721,
+        calculated_BV: 2721,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2044,
+        name: "Hercules HRC-LS-9000",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1561,
+        calculated_BV: 1561,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2045,
+        name: "Hercules HRC-LS-9000 (Julius)",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1644,
+        calculated_BV: 1644,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2046,
+        name: "Hercules HRC-LS-9001",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1566,
+        calculated_BV: 1566,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2047,
+        name: "Hercules HRC-LS-9003",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1794,
+        calculated_BV: 1794,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2048,
+        name: "Hound HD-2F",
+        role: "Sniper",
+        tons: 70,
+        BV: 1389,
+        calculated_BV: 1389,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2049,
+        name: "JagerMech JM7-D",
+        role: "Sniper",
+        tons: 70,
+        BV: 1500,
+        calculated_BV: 1500,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2050,
+        name: "JagerMech JM7-DD",
+        role: "Sniper",
+        tons: 70,
+        BV: 1690,
+        calculated_BV: 1690,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2051,
+        name: "JagerMech JM7-F",
+        role: "Brawler",
+        tons: 70,
+        BV: 1774,
+        calculated_BV: 1774,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2052,
+        name: "JagerMech JM7-G",
+        role: "Sniper",
+        tons: 70,
+        BV: 1275,
+        calculated_BV: 1275,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2053,
+        name: "Lightning LHN-C5",
+        role: "Sniper",
+        tons: 70,
+        BV: 2024,
+        calculated_BV: 2024,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2054,
+        name: "Mangonel MNL-3L",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1552,
+        calculated_BV: 1552,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2055,
+        name: "Mangonel MNL-3W",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2657,
+        calculated_BV: 2657,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2056,
+        name: "Mangonel MNL-4S",
+        role: "Brawler",
+        tons: 70,
+        BV: 2659,
+        calculated_BV: 2659,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2057,
+        name: "Minsk",
+        role: "Sniper",
+        tons: 70,
+        BV: 2028,
+        calculated_BV: 2028,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2058,
+        name: "No-Dachi NDA-1K",
+        role: "Brawler",
+        tons: 70,
+        BV: 1708,
+        calculated_BV: 1708,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2059,
+        name: "No-Dachi NDA-2K",
+        role: "Brawler",
+        tons: 70,
+        BV: 1739,
+        calculated_BV: 1739,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2060,
+        name: "No-Dachi NDA-2KC",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1705,
+        calculated_BV: 1705,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2061,
+        name: "No-Dachi NDA-2KO",
+        role: "Brawler",
+        tons: 70,
+        BV: 1728,
+        calculated_BV: 1728,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2062,
+        name: "Nova Cat A",
+        role: "Sniper",
+        tons: 70,
+        BV: 2629,
+        calculated_BV: 2629,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2063,
+        name: "Nova Cat B",
+        role: "Missile Boat",
+        tons: 70,
+        BV: 2492,
+        calculated_BV: 2492,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2064,
+        name: "Nova Cat C",
+        role: "Sniper",
+        tons: 70,
+        BV: 1944,
+        calculated_BV: 1944,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2065,
+        name: "Nova Cat D",
+        role: "Brawler",
+        tons: 70,
+        BV: 2084,
+        calculated_BV: 2084,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2066,
+        name: "Nova Cat E",
+        role: "Brawler",
+        tons: 70,
+        BV: 2191,
+        calculated_BV: 2191,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2067,
+        name: "Nova Cat F",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2706,
+        calculated_BV: 2706,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2068,
+        name: "Nova Cat G",
+        role: "Missile Boat",
+        tons: 70,
+        BV: 2522,
+        calculated_BV: 2522,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2069,
+        name: "Nova Cat H",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2452,
+        calculated_BV: 2452,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2070,
+        name: "Nova Cat M",
+        role: "Juggernaut",
+        tons: 70,
+        BV: 2024,
+        calculated_BV: 2024,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2071,
+        name: "Nova Cat Prime",
+        role: "Sniper",
+        tons: 70,
+        BV: 2530,
+        calculated_BV: 2530,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2072,
+        name: "Nova Cat T",
+        role: "Sniper",
+        tons: 70,
+        BV: 2855,
+        calculated_BV: 2855,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2073,
+        name: "Shootist ST-8A",
+        role: "Brawler",
+        tons: 70,
+        BV: 1507,
+        calculated_BV: 1507,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2074,
+        name: "Shootist ST-8C",
+        role: "Brawler",
+        tons: 70,
+        BV: 1528,
+        calculated_BV: 1528,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2075,
+        name: "Shootist ST-9C",
+        role: "Sniper",
+        tons: 70,
+        BV: 1727,
+        calculated_BV: 1727,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2076,
+        name: "Thor (Summoner) A",
+        role: "Sniper",
+        tons: 70,
+        BV: 2145,
+        calculated_BV: 2145,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2077,
+        name: "Thor (Summoner) B",
+        role: "Missile Boat",
+        tons: 70,
+        BV: 2159,
+        calculated_BV: 2159,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2078,
+        name: "Thor (Summoner) C",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2379,
+        calculated_BV: 2379,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2079,
+        name: "Thor (Summoner) D",
+        role: "Sniper",
+        tons: 70,
+        BV: 2643,
+        calculated_BV: 2643,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2080,
+        name: "Thor (Summoner) E",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2612,
+        calculated_BV: 2612,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2081,
+        name: "Thor (Summoner) F",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2186,
+        calculated_BV: 2186,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2082,
+        name: "Thor (Summoner) G",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2452,
+        calculated_BV: 2452,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2083,
+        name: "Thor (Summoner) H",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2536,
+        calculated_BV: 2536,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2084,
+        name: "Thor (Summoner) HH",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2490,
+        calculated_BV: 2490,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2085,
+        name: "Thor (Summoner) J",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2666,
+        calculated_BV: 2666,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2086,
+        name: "Thor (Summoner) M",
+        role: "Sniper",
+        tons: 70,
+        BV: 2251,
+        calculated_BV: 2251,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2087,
+        name: "Thor (Summoner) Prime",
+        role: "Sniper",
+        tons: 70,
+        BV: 2298,
+        calculated_BV: 2298,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2088,
+        name: "Thor (Summoner) Q",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2479,
+        calculated_BV: 2479,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2089,
+        name: "Thor (Summoner) T",
+        role: "Sniper",
+        tons: 70,
+        BV: 2355,
+        calculated_BV: 2355,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2090,
+        name: "Thor (Summoner) U",
+        role: "Sniper",
+        tons: 70,
+        BV: 3092,
+        calculated_BV: 3092,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2091,
+        name: "Thor II (Grand Summoner) A",
+        role: "Sniper",
+        tons: 70,
+        BV: 2473,
+        calculated_BV: 2473,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2092,
+        name: "Thor II (Grand Summoner) B",
+        role: "Missile Boat",
+        tons: 70,
+        BV: 2354,
+        calculated_BV: 2354,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2093,
+        name: "Thor II (Grand Summoner) C",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2351,
+        calculated_BV: 2351,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2094,
+        name: "Thor II (Grand Summoner) D",
+        role: "Sniper",
+        tons: 70,
+        BV: 2878,
+        calculated_BV: 2878,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2095,
+        name: "Thor II (Grand Summoner) E",
+        role: "Sniper",
+        tons: 70,
+        BV: 2638,
+        calculated_BV: 2638,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2096,
+        name: "Thor II (Grand Summoner) Prime",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2554,
+        calculated_BV: 2554,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2097,
+        name: "Thunder THR-1L",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1471,
+        calculated_BV: 1471,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2098,
+        name: "Thunder THR-2L",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1951,
+        calculated_BV: 1951,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2099,
+        name: "Thunderbolt IIC 2",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 2174,
+        calculated_BV: 2174,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2100,
+        name: "Viper VP-1",
+        role: "Brawler",
+        tons: 70,
+        BV: 1609,
+        calculated_BV: 1609,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2101,
+        name: "Viper VP-7",
+        role: "Brawler",
+        tons: 70,
+        BV: 1864,
+        calculated_BV: 1864,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2102,
+        name: "Viper VP-8",
+        role: "Brawler",
+        tons: 70,
+        BV: 2679,
+        calculated_BV: 2679,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2103,
+        name: "Viper VP-9",
+        role: "Brawler",
+        tons: 70,
+        BV: 2244,
+        calculated_BV: 2244,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2104,
+        name: "Warhammer C",
+        role: "Brawler",
+        tons: 70,
+        BV: 1728,
+        calculated_BV: 1728,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2105,
+        name: "Warhammer C 2",
+        role: "Brawler",
+        tons: 70,
+        BV: 2157,
+        calculated_BV: 2157,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2106,
+        name: "Warhammer C 3",
+        role: "Brawler",
+        tons: 70,
+        BV: 2772,
+        calculated_BV: 2772,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2107,
+        name: "Warhammer WHD-10CT",
+        role: "Brawler",
+        tons: 70,
+        BV: 1758,
+        calculated_BV: 1758,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2108,
+        name: "Warhammer WHM-10T",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1891,
+        calculated_BV: 1891,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2109,
+        name: "Warhammer WHM-11T",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1698,
+        calculated_BV: 1698,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2110,
+        name: "Warhammer WHM-4L",
+        role: "Brawler",
+        tons: 70,
+        BV: 1743,
+        calculated_BV: 1743,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2111,
+        name: "Warhammer WHM-5L",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1896,
+        calculated_BV: 1896,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2112,
+        name: "Warhammer WHM-6K (Olesko)",
+        role: "Brawler",
+        tons: 70,
+        BV: 1338,
+        calculated_BV: 1338,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2113,
+        name: "Warhammer WHM-6Rb",
+        role: "Brawler",
+        tons: 70,
+        BV: 1431,
+        calculated_BV: 1431,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2114,
+        name: "Warhammer WHM-6Rk",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1621,
+        calculated_BV: 1621,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2115,
+        name: "Warhammer WHM-7A",
+        role: "Brawler",
+        tons: 70,
+        BV: 1679,
+        calculated_BV: 1679,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2116,
+        name: "Warhammer WHM-7CS",
+        role: "Brawler",
+        tons: 70,
+        BV: 1751,
+        calculated_BV: 1751,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2117,
+        name: "Warhammer WHM-7K",
+        role: "Brawler",
+        tons: 70,
+        BV: 1651,
+        calculated_BV: 1651,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2118,
+        name: "Warhammer WHM-7M",
+        role: "Brawler",
+        tons: 70,
+        BV: 1487,
+        calculated_BV: 1487,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2119,
+        name: "Warhammer WHM-7S",
+        role: "Brawler",
+        tons: 70,
+        BV: 1477,
+        calculated_BV: 1477,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2120,
+        name: "Warhammer WHM-8D",
+        role: "Brawler",
+        tons: 70,
+        BV: 1744,
+        calculated_BV: 1744,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2121,
+        name: "Warhammer WHM-8K",
+        role: "Sniper",
+        tons: 70,
+        BV: 1748,
+        calculated_BV: 1748,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2122,
+        name: "Warhammer WHM-8M",
+        role: "Sniper",
+        tons: 70,
+        BV: 1631,
+        calculated_BV: 1631,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2123,
+        name: "Warhammer WHM-9D",
+        role: "Sniper",
+        tons: 70,
+        BV: 2152,
+        calculated_BV: 2152,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2124,
+        name: "Warhammer WHM-9K",
+        role: "Brawler",
+        tons: 70,
+        BV: 1744,
+        calculated_BV: 1744,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2125,
+        name: "Warhammer WHM-9S",
+        role: "Brawler",
+        tons: 70,
+        BV: 1653,
+        calculated_BV: 1653,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2126,
+        name: "White Flame WHF-3B",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1637,
+        calculated_BV: 1637,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2127,
+        name: "White Flame WHF-3C",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1826,
+        calculated_BV: 1826,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2128,
+        name: "White Flame WHF-4C",
+        role: "Skirmisher",
+        tons: 70,
+        BV: 1680,
+        calculated_BV: 1680,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2129,
+        name: "Bandersnatch BNDR-01A",
+        role: "Brawler",
+        tons: 75,
+        BV: 1478,
+        calculated_BV: 1478,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2130,
+        name: "Bandersnatch BNDR-01A (Horus)",
+        role: "Brawler",
+        tons: 75,
+        BV: 1587,
+        calculated_BV: 1587,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2131,
+        name: "Bandersnatch BNDR-01Ar",
+        role: "Brawler",
+        tons: 75,
+        BV: 1522,
+        calculated_BV: 1522,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2132,
+        name: "Bandersnatch BNDR-01B",
+        role: "Brawler",
+        tons: 75,
+        BV: 1630,
+        calculated_BV: 1630,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2133,
+        name: "Black Knight BL-10-KNT (Ross)",
+        role: "Brawler",
+        tons: 75,
+        BV: 2103,
+        calculated_BV: 2103,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2134,
+        name: "Black Knight BL-12-KNT",
+        role: "Brawler",
+        tons: 75,
+        BV: 1840,
+        calculated_BV: 1840,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2135,
+        name: "Black Knight BL-18-KNT",
+        role: "Brawler",
+        tons: 75,
+        BV: 2585,
+        calculated_BV: 2585,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2136,
+        name: "Black Knight BL-6-KNT",
+        role: "Brawler",
+        tons: 75,
+        BV: 1551,
+        calculated_BV: 1551,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2137,
+        name: "Black Knight BL-6b-KNT",
+        role: "Brawler",
+        tons: 75,
+        BV: 1627,
+        calculated_BV: 1627,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2138,
+        name: "Black Knight BL-9-KNT",
+        role: "Brawler",
+        tons: 75,
+        BV: 1678,
+        calculated_BV: 1678,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2139,
+        name: "Burrock",
+        role: "Brawler",
+        tons: 75,
+        BV: 2230,
+        calculated_BV: 2230,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2140,
+        name: "Burrock 2",
+        role: "Brawler",
+        tons: 75,
+        BV: 2864,
+        calculated_BV: 2864,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2141,
+        name: "Defiance DFN-3S",
+        role: "Brawler",
+        tons: 75,
+        BV: 1940,
+        calculated_BV: 1940,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2142,
+        name: "Defiance DFN-3T",
+        role: "Brawler",
+        tons: 75,
+        BV: 1981,
+        calculated_BV: 1981,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2143,
+        name: "Dragon Fire DGR-3F",
+        role: "Brawler",
+        tons: 75,
+        BV: 1855,
+        calculated_BV: 1855,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2144,
+        name: "Dragon Fire DGR-4F",
+        role: "Brawler",
+        tons: 75,
+        BV: 1900,
+        calculated_BV: 1900,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2145,
+        name: "Dragon Fire DGR-6FC",
+        role: "Brawler",
+        tons: 75,
+        BV: 1858,
+        calculated_BV: 1858,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2146,
+        name: "Dragon Fire DGR-6FC2 (Gregory)",
+        role: "Brawler",
+        tons: 75,
+        BV: 2230,
+        calculated_BV: 2230,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2147,
+        name: "Falconer FLC-8R",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2231,
+        calculated_BV: 2231,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2148,
+        name: "Falconer FLC-9R",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1979,
+        calculated_BV: 1979,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2149,
+        name: "Flashman FLS-8K",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1779,
+        calculated_BV: 1779,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2150,
+        name: "Flashman FLS-9B",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1600,
+        calculated_BV: 1600,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2151,
+        name: "Flashman FLS-9C",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1779,
+        calculated_BV: 1779,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2152,
+        name: "Flashman FLS-9M",
+        role: "Brawler",
+        tons: 75,
+        BV: 1895,
+        calculated_BV: 1895,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2153,
+        name: "Flashman FLS-C",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1774,
+        calculated_BV: 1774,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2154,
+        name: "Götterdämmerung GTD-30S",
+        role: "Brawler",
+        tons: 75,
+        BV: 1574,
+        calculated_BV: 1574,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2155,
+        name: "Hammerhands HMH-3D (Kessem)",
+        role: "Juggernaut",
+        tons: 75,
+        BV: 1413,
+        calculated_BV: 1413,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2156,
+        name: "Hammerhands HMH-5D",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1496,
+        calculated_BV: 1496,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2157,
+        name: "Hammerhands HMH-6D",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2139,
+        calculated_BV: 2139,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2158,
+        name: "Hammerhands HMH-6E",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2204,
+        calculated_BV: 2204,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2159,
+        name: "Inferno INF-NOA",
+        role: "Brawler",
+        tons: 75,
+        BV: 1846,
+        calculated_BV: 1846,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2160,
+        name: "Inferno INF-NOB",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 1658,
+        calculated_BV: 1658,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2161,
+        name: "Inferno INF-NOC",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 1698,
+        calculated_BV: 1698,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2162,
+        name: "Inferno INF-NOR",
+        role: "Sniper",
+        tons: 75,
+        BV: 2360,
+        calculated_BV: 2360,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2163,
+        name: "Jade Hawk 2",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2455,
+        calculated_BV: 2455,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2164,
+        name: "Jade Hawk 3",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2498,
+        calculated_BV: 2498,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2165,
+        name: "Jade Hawk JHK-04",
+        role: "Sniper",
+        tons: 75,
+        BV: 2102,
+        calculated_BV: 2102,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2166,
+        name: "Lao Hu LHU-2B",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1771,
+        calculated_BV: 1771,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2167,
+        name: "Lao Hu LHU-3B",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1497,
+        calculated_BV: 1497,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2168,
+        name: "Lao Hu LHU-3C",
+        role: "Sniper",
+        tons: 75,
+        BV: 1878,
+        calculated_BV: 1878,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2169,
+        name: "Lao Hu LHU-3L",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1995,
+        calculated_BV: 1995,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2170,
+        name: "Lao Hu LHU-4E",
+        role: "Sniper",
+        tons: 75,
+        BV: 2123,
+        calculated_BV: 2123,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2171,
+        name: "Mad Cat (Timber Wolf) (Bounty Hunter 2)",
+        role: "Brawler",
+        tons: 75,
+        BV: 2799,
+        calculated_BV: 2799,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2172,
+        name: "Mad Cat (Timber Wolf) (Bounty Hunter)",
+        role: "Brawler",
+        tons: 75,
+        BV: 2829,
+        calculated_BV: 2829,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2173,
+        name: "Mad Cat (Timber Wolf) (Pryde)",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 2900,
+        calculated_BV: 2900,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2174,
+        name: "Mad Cat (Timber Wolf) A",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2854,
+        calculated_BV: 2854,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2175,
+        name: "Mad Cat (Timber Wolf) B",
+        role: "Sniper",
+        tons: 75,
+        BV: 2224,
+        calculated_BV: 2224,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2176,
+        name: "Mad Cat (Timber Wolf) BLO",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2611,
+        calculated_BV: 2611,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2177,
+        name: "Mad Cat (Timber Wolf) C",
+        role: "Sniper",
+        tons: 75,
+        BV: 2500,
+        calculated_BV: 2500,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2178,
+        name: "Mad Cat (Timber Wolf) D",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2682,
+        calculated_BV: 2682,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2179,
+        name: "Mad Cat (Timber Wolf) E",
+        role: "Sniper",
+        tons: 75,
+        BV: 2444,
+        calculated_BV: 2444,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2180,
+        name: "Mad Cat (Timber Wolf) F",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 2764,
+        calculated_BV: 2764,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2181,
+        name: "Mad Cat (Timber Wolf) H",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 2627,
+        calculated_BV: 2627,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2182,
+        name: "Mad Cat (Timber Wolf) M",
+        role: "Brawler",
+        tons: 75,
+        BV: 2741,
+        calculated_BV: 2741,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2183,
+        name: "Mad Cat (Timber Wolf) N",
+        role: "Brawler",
+        tons: 75,
+        BV: 2862,
+        calculated_BV: 2862,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2184,
+        name: "Mad Cat (Timber Wolf) Prime",
+        role: "Brawler",
+        tons: 75,
+        BV: 2737,
+        calculated_BV: 2737,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2185,
+        name: "Mad Cat (Timber Wolf) S",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2462,
+        calculated_BV: 2462,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2186,
+        name: "Mad Cat (Timber Wolf) T",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 2714,
+        calculated_BV: 2714,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2187,
+        name: "Mad Cat (Timber Wolf) TC",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2903,
+        calculated_BV: 2903,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2188,
+        name: "Mad Cat (Timber Wolf) W",
+        role: "Juggernaut",
+        tons: 75,
+        BV: 2791,
+        calculated_BV: 2791,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2189,
+        name: "Mad Cat Mk IV (Savage Wolf) PR",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2702,
+        calculated_BV: 2702,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2190,
+        name: "Mad Cat Mk IV (Savage Wolf) PR 2",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2666,
+        calculated_BV: 2666,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2191,
+        name: "Maelstrom MTR-5K",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1694,
+        calculated_BV: 1694,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2192,
+        name: "Maelstrom MTR-6E",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1806,
+        calculated_BV: 1806,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2193,
+        name: "Maelstrom MTR-6K",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1678,
+        calculated_BV: 1678,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2194,
+        name: "Marauder (Bounty Hunter-3015)",
+        role: "Juggernaut",
+        tons: 75,
+        BV: 1919,
+        calculated_BV: 1919,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2195,
+        name: "Marauder (Bounty Hunter-3044)",
+        role: "Sniper",
+        tons: 75,
+        BV: 2103,
+        calculated_BV: 2103,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2196,
+        name: "Marauder (Bounty Hunter-3138)",
+        role: "Sniper",
+        tons: 75,
+        BV: 2708,
+        calculated_BV: 2708,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2197,
+        name: "Marauder C",
+        role: "Sniper",
+        tons: 75,
+        BV: 1711,
+        calculated_BV: 1711,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2198,
+        name: "Marauder MAD-11D",
+        role: "Sniper",
+        tons: 75,
+        BV: 2263,
+        calculated_BV: 2263,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2199,
+        name: "Marauder MAD-1R",
+        role: "Sniper",
+        tons: 75,
+        BV: 1420,
+        calculated_BV: 1420,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2200,
+        name: "Marauder MAD-2R",
+        role: "Sniper",
+        tons: 75,
+        BV: 1630,
+        calculated_BV: 1630,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2201,
+        name: "Marauder MAD-2T",
+        role: "Sniper",
+        tons: 75,
+        BV: 1646,
+        calculated_BV: 1646,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2202,
+        name: "Marauder MAD-5CS",
+        role: "Sniper",
+        tons: 75,
+        BV: 1648,
+        calculated_BV: 1648,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2203,
+        name: "Marauder MAD-5D",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1787,
+        calculated_BV: 1787,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2204,
+        name: "Marauder MAD-5L",
+        role: "Sniper",
+        tons: 75,
+        BV: 2244,
+        calculated_BV: 2244,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2205,
+        name: "Marauder MAD-5M",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1471,
+        calculated_BV: 1471,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2206,
+        name: "Marauder MAD-5R",
+        role: "Brawler",
+        tons: 75,
+        BV: 1877,
+        calculated_BV: 1877,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2207,
+        name: "Marauder MAD-5S",
+        role: "Sniper",
+        tons: 75,
+        BV: 1799,
+        calculated_BV: 1799,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2208,
+        name: "Marauder MAD-5T",
+        role: "Brawler",
+        tons: 75,
+        BV: 1750,
+        calculated_BV: 1750,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2209,
+        name: "Marauder MAD-6L",
+        role: "Brawler",
+        tons: 75,
+        BV: 2322,
+        calculated_BV: 2322,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2210,
+        name: "Marauder MAD-7C",
+        role: "Sniper",
+        tons: 75,
+        BV: 1810,
+        calculated_BV: 1810,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2211,
+        name: "Marauder MAD-7D",
+        role: "Brawler",
+        tons: 75,
+        BV: 1986,
+        calculated_BV: 1986,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2212,
+        name: "Marauder MAD-7D (Von Staskov)",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2150,
+        calculated_BV: 2150,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2213,
+        name: "Marauder MAD-7M",
+        role: "Brawler",
+        tons: 75,
+        BV: 1908,
+        calculated_BV: 1908,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2214,
+        name: "Marauder MAD-7R",
+        role: "Sniper",
+        tons: 75,
+        BV: 1832,
+        calculated_BV: 1832,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2215,
+        name: "Marauder MAD-7S",
+        role: "Sniper",
+        tons: 75,
+        BV: 1903,
+        calculated_BV: 1903,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2216,
+        name: "Marauder MAD-9M",
+        role: "Brawler",
+        tons: 75,
+        BV: 1704,
+        calculated_BV: 1704,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2217,
+        name: "Marauder MAD-9M2",
+        role: "Brawler",
+        tons: 75,
+        BV: 1875,
+        calculated_BV: 1875,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2218,
+        name: "Marauder MAD-9S",
+        role: "Sniper",
+        tons: 75,
+        BV: 1786,
+        calculated_BV: 1786,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2219,
+        name: "Marauder MAD-9W",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1788,
+        calculated_BV: 1788,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2220,
+        name: "Marauder MAD-9W2",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1868,
+        calculated_BV: 1868,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2221,
+        name: "Masauwu",
+        role: "Brawler",
+        tons: 75,
+        BV: 2299,
+        calculated_BV: 2299,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2222,
+        name: "Night Gyr A",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2680,
+        calculated_BV: 2680,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2223,
+        name: "Night Gyr B",
+        role: "Sniper",
+        tons: 75,
+        BV: 2140,
+        calculated_BV: 2140,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2224,
+        name: "Night Gyr C",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2468,
+        calculated_BV: 2468,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2225,
+        name: "Night Gyr D",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 2889,
+        calculated_BV: 2889,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2226,
+        name: "Night Gyr E",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2717,
+        calculated_BV: 2717,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2227,
+        name: "Night Gyr F",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2958,
+        calculated_BV: 2958,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2228,
+        name: "Night Gyr G",
+        role: "Sniper",
+        tons: 75,
+        BV: 3069,
+        calculated_BV: 3069,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2229,
+        name: "Night Gyr H",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2428,
+        calculated_BV: 2428,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2230,
+        name: "Night Gyr Prime",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 2830,
+        calculated_BV: 2830,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2231,
+        name: "Night Gyr T",
+        role: "Juggernaut",
+        tons: 75,
+        BV: 2767,
+        calculated_BV: 2767,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2232,
+        name: "Onslaught SA-OS",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1562,
+        calculated_BV: 1562,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2233,
+        name: "Orion C 2",
+        role: "Brawler",
+        tons: 75,
+        BV: 2026,
+        calculated_BV: 2026,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2234,
+        name: "Orion IIC",
+        role: "Sniper",
+        tons: 75,
+        BV: 2392,
+        calculated_BV: 2392,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2235,
+        name: "Orion IIC (Burton)",
+        role: "Sniper",
+        tons: 75,
+        BV: 2746,
+        calculated_BV: 2746,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2236,
+        name: "Orion ON1-M",
+        role: "Brawler",
+        tons: 75,
+        BV: 1414,
+        calculated_BV: 1414,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2237,
+        name: "Orion ON1-MA",
+        role: "Brawler",
+        tons: 75,
+        BV: 1501,
+        calculated_BV: 1501,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2238,
+        name: "Orion ON1-MB",
+        role: "Brawler",
+        tons: 75,
+        BV: 1472,
+        calculated_BV: 1472,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2239,
+        name: "Orion ON1-MC",
+        role: "Brawler",
+        tons: 75,
+        BV: 1501,
+        calculated_BV: 1501,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2240,
+        name: "Orion ON1-MD",
+        role: "Brawler",
+        tons: 75,
+        BV: 1597,
+        calculated_BV: 1597,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2241,
+        name: "Orion ON2-M",
+        role: "Brawler",
+        tons: 75,
+        BV: 1828,
+        calculated_BV: 1828,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2242,
+        name: "Penetrator PTR-4D",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1687,
+        calculated_BV: 1687,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2243,
+        name: "Penetrator PTR-4F",
+        role: "Missile Boat",
+        tons: 75,
+        BV: 1564,
+        calculated_BV: 1564,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2244,
+        name: "Penetrator PTR-6M",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1639,
+        calculated_BV: 1639,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2245,
+        name: "Penetrator PTR-6S",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1689,
+        calculated_BV: 1689,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2246,
+        name: "Penetrator PTR-6T",
+        role: "Skirmisher",
+        tons: 75,
+        BV: 1994,
+        calculated_BV: 1994,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2247,
+        name: "Penthesilea PEN-2H",
+        role: "Brawler",
+        tons: 75,
+        BV: 1899,
+        calculated_BV: 1899,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2248,
+        name: "Penthesilea PEN-2MAF",
+        role: "Brawler",
+        tons: 75,
+        BV: 1834,
+        calculated_BV: 1834,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2249,
+        name: "Perseus P1",
+        role: "Brawler",
+        tons: 75,
+        BV: 1713,
+        calculated_BV: 1713,
+        gunnery: 4,
+        piloting: 4
       }
 
     ]
