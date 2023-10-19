@@ -26756,6 +26756,996 @@ export const mechs = [
         calculated_BV: 2843,
         gunnery: 4,
         piloting: 4
+      },
+      {
+        id: 2501,
+        name: "Marauder IIC 8",
+        role: "Brawler",
+        tons: 85,
+        BV: 2554,
+        calculated_BV: 2554,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2502,
+        name: "Marauder IIC 9",
+        role: "Sniper",
+        tons: 85,
+        BV: 2595,
+        calculated_BV: 2595,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2503,
+        name: "Masakari (Warhawk) (Tara)",
+        role: "Unknown",
+        tons: 85,
+        BV: 3428,
+        calculated_BV: null,
+        gunnery: null,
+        piloting: null
+      },
+      {
+        id: 2504,
+        name: "Masakari (Warhawk) A",
+        role: "Sniper",
+        tons: 85,
+        BV: 2399,
+        calculated_BV: 2399,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2505,
+        name: "Masakari (Warhawk) B",
+        role: "Brawler",
+        tons: 85,
+        BV: 2320,
+        calculated_BV: 2320,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2506,
+        name: "Masakari (Warhawk) C",
+        role: "Sniper",
+        tons: 85,
+        BV: 2998,
+        calculated_BV: 2998,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2507,
+        name: "Masakari (Warhawk) D",
+        role: "Sniper",
+        tons: 85,
+        BV: 2474,
+        calculated_BV: 2474,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2508,
+        name: "Masakari (Warhawk) E",
+        role: "Sniper",
+        tons: 85,
+        BV: 2895,
+        calculated_BV: 2895,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2509,
+        name: "Masakari (Warhawk) F",
+        role: "Sniper",
+        tons: 85,
+        BV: 2775,
+        calculated_BV: 2775,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2510,
+        name: "Masakari (Warhawk) G",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2909,
+        calculated_BV: 2909,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2511,
+        name: "Masakari (Warhawk) H",
+        role: "Brawler",
+        tons: 85,
+        BV: 2601,
+        calculated_BV: 2601,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2512,
+        name: "Masakari (Warhawk) I",
+        role: "Sniper",
+        tons: 85,
+        BV: 3026,
+        calculated_BV: 3026,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2513,
+        name: "Masakari (Warhawk) L",
+        role: "Brawler",
+        tons: 85,
+        BV: 3695,
+        calculated_BV: 3695,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2514,
+        name: "Masakari (Warhawk) Prime",
+        role: "Sniper",
+        tons: 85,
+        BV: 3194,
+        calculated_BV: 3194,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2515,
+        name: "Masakari (Warhawk) T",
+        role: "Brawler",
+        tons: 85,
+        BV: 2938,
+        calculated_BV: 2938,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2516,
+        name: "Omen",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2750,
+        calculated_BV: 2750,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2517,
+        name: "Rampage RMP-4G",
+        role: "Sniper",
+        tons: 85,
+        BV: 2130,
+        calculated_BV: 2130,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2518,
+        name: "Rampage RMP-4G (Benboudaoud)",
+        role: "Brawler",
+        tons: 85,
+        BV: 1751,
+        calculated_BV: 1751,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2519,
+        name: "Rampage RMP-5G",
+        role: "Skirmisher",
+        tons: 85,
+        BV: 1933,
+        calculated_BV: 1933,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2520,
+        name: "Sasquatch SQS-TH-001",
+        role: "Skirmisher",
+        tons: 85,
+        BV: 1940,
+        calculated_BV: 1940,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2521,
+        name: "Savage Coyote A",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2852,
+        calculated_BV: 2852,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2522,
+        name: "Savage Coyote B",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2284,
+        calculated_BV: 2284,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2523,
+        name: "Savage Coyote C",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 3189,
+        calculated_BV: 3189,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2524,
+        name: "Savage Coyote J",
+        role: "Brawler",
+        tons: 85,
+        BV: 2554,
+        calculated_BV: 2554,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2525,
+        name: "Savage Coyote Prime",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2613,
+        calculated_BV: 2613,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2526,
+        name: "Savage Coyote W",
+        role: "Sniper",
+        tons: 85,
+        BV: 2792,
+        calculated_BV: 2792,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2527,
+        name: "Seraph C-SRP-O Invictus",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1794,
+        calculated_BV: 1794,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2528,
+        name: "Seraph C-SRP-OA Dominus",
+        role: "Skirmisher",
+        tons: 85,
+        BV: 2338,
+        calculated_BV: 2338,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2529,
+        name: "Seraph C-SRP-OB Infernus",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2181,
+        calculated_BV: 2181,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2530,
+        name: "Seraph C-SRP-OC Comminus",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2136,
+        calculated_BV: 2136,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2531,
+        name: "Seraph C-SRP-OD Luminos",
+        role: "Sniper",
+        tons: 85,
+        BV: 2291,
+        calculated_BV: 2291,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2532,
+        name: "Shogun C",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 3032,
+        calculated_BV: 3032,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2533,
+        name: "Shogun SHG-2E",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 1823,
+        calculated_BV: 1823,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2534,
+        name: "Shogun SHG-2F",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 1804,
+        calculated_BV: 1804,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2535,
+        name: "Shogun SHG-2F (Trisha)",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1733,
+        calculated_BV: 1733,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2536,
+        name: "Shogun SHG-2H",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 2087,
+        calculated_BV: 2087,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2537,
+        name: "Shogun SHG-3E",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1998,
+        calculated_BV: 1998,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2538,
+        name: "Stalker STK-3F (Jamison)",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 2707,
+        calculated_BV: 2707,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2539,
+        name: "Stalker STK-3Fb",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2029,
+        calculated_BV: 2029,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2540,
+        name: "Stalker STK-5M",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1655,
+        calculated_BV: 1655,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2541,
+        name: "Stalker STK-5S",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1423,
+        calculated_BV: 1423,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2542,
+        name: "Stalker STK-6M",
+        role: "Sniper",
+        tons: 85,
+        BV: 2029,
+        calculated_BV: 2029,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2543,
+        name: "Stalker STK-7D",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 1872,
+        calculated_BV: 1872,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2544,
+        name: "Stalker STK-8S",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2020,
+        calculated_BV: 2020,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2545,
+        name: "Tai-sho TSH-7S",
+        role: "Sniper",
+        tons: 85,
+        BV: 1774,
+        calculated_BV: 1774,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2546,
+        name: "Tai-sho TSH-8S",
+        role: "Sniper",
+        tons: 85,
+        BV: 2001,
+        calculated_BV: 2001,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2547,
+        name: "Templar III TLR2-O",
+        role: "Brawler",
+        tons: 85,
+        BV: 2028,
+        calculated_BV: 2028,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2548,
+        name: "Templar III TLR2-OA",
+        role: "Brawler",
+        tons: 85,
+        BV: 1677,
+        calculated_BV: 1677,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2549,
+        name: "Templar TLR1-O",
+        role: "Brawler",
+        tons: 85,
+        BV: 2045,
+        calculated_BV: 2045,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2550,
+        name: "Templar TLR1-O (Grayson)",
+        role: "Brawler",
+        tons: 85,
+        BV: 1868,
+        calculated_BV: 1868,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2551,
+        name: "Templar TLR1-O (Tancred)",
+        role: "Brawler",
+        tons: 85,
+        BV: 2273,
+        calculated_BV: 2273,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2552,
+        name: "Templar TLR1-OA",
+        role: "Brawler",
+        tons: 85,
+        BV: 2070,
+        calculated_BV: 2070,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2553,
+        name: "Templar TLR1-OB",
+        role: "Sniper",
+        tons: 85,
+        BV: 1806,
+        calculated_BV: 1806,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2554,
+        name: "Templar TLR1-OC",
+        role: "Brawler",
+        tons: 85,
+        BV: 2063,
+        calculated_BV: 2063,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2555,
+        name: "Templar TLR1-OE",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 1865,
+        calculated_BV: 1865,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2556,
+        name: "Templar TLR1-OF",
+        role: "Brawler",
+        tons: 85,
+        BV: 2029,
+        calculated_BV: 2029,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2557,
+        name: "Templar TLR1-OG",
+        role: "Sniper",
+        tons: 85,
+        BV: 1632,
+        calculated_BV: 1632,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2558,
+        name: "Templar TLR1-OI",
+        role: "Brawler",
+        tons: 85,
+        BV: 2202,
+        calculated_BV: 2202,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2559,
+        name: "Templar TRL1-OBLO",
+        role: "Brawler",
+        tons: 85,
+        BV: 2062,
+        calculated_BV: 2062,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2560,
+        name: "Thunder Stallion",
+        role: "Missile Boat",
+        tons: 85,
+        BV: 2306,
+        calculated_BV: 2306,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2561,
+        name: 'Thunder Stallion 2 "Fire Stallion"',
+        role: "Missile Boat",
+        tons: 85,
+        BV: 2575,
+        calculated_BV: 2575,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2562,
+        name: "Thunder Stallion 3",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2631,
+        calculated_BV: 2631,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2563,
+        name: "Thunder Stallion 4",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2607,
+        calculated_BV: 2607,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2564,
+        name: "Wakazashi",
+        role: "Juggernaut",
+        tons: 85,
+        BV: 2909,
+        calculated_BV: 2909,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2565,
+        name: "Akuma AKU-1X",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 1959,
+        calculated_BV: 1959,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2566,
+        name: "Akuma AKU-1XJ",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2203,
+        calculated_BV: 2203,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2567,
+        name: "Akuma AKU-2XK",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2170,
+        calculated_BV: 2170,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2568,
+        name: "Alpha Wolf A",
+        role: "Brawler",
+        tons: 90,
+        BV: 3359,
+        calculated_BV: 3359,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2569,
+        name: "Alpha Wolf B",
+        role: "Brawler",
+        tons: 90,
+        BV: 2672,
+        calculated_BV: 2672,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2570,
+        name: "Alpha Wolf C",
+        role: "Sniper",
+        tons: 90,
+        BV: 2535,
+        calculated_BV: 2535,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2571,
+        name: "Alpha Wolf Prime",
+        role: "Sniper",
+        tons: 90,
+        BV: 2966,
+        calculated_BV: 2966,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2572,
+        name: "Cyclops CP-11-A",
+        role: "Sniper",
+        tons: 90,
+        BV: 1547,
+        calculated_BV: 1547,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2573,
+        name: "Cyclops CP-11-B",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2145,
+        calculated_BV: 2145,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2574,
+        name: "Cyclops CP-11-C",
+        role: "Brawler",
+        tons: 90,
+        BV: 1553,
+        calculated_BV: 1553,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2575,
+        name: "Cyclops CP-11-C2",
+        role: "Brawler",
+        tons: 90,
+        BV: 1534,
+        calculated_BV: 1534,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2576,
+        name: "Cyclops CP-11-G",
+        role: "Sniper",
+        tons: 90,
+        BV: 1981,
+        calculated_BV: 1981,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2577,
+        name: "Cyclops CP-11-H",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 1525,
+        calculated_BV: 1525,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2578,
+        name: "Cyclops CP-12-K",
+        role: "Brawler",
+        tons: 90,
+        BV: 1699,
+        calculated_BV: 1699,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2579,
+        name: "Daboku DCMS-MX90-D",
+        role: "Sniper",
+        tons: 90,
+        BV: 1290,
+        calculated_BV: 1290,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2580,
+        name: "Emperor EMP-6A",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 1969,
+        calculated_BV: 1969,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2581,
+        name: "Emperor EMP-6D",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2382,
+        calculated_BV: 2382,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2582,
+        name: "Emperor EMP-6L",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2681,
+        calculated_BV: 2681,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2583,
+        name: "Emperor EMP-6M",
+        role: "Sniper",
+        tons: 90,
+        BV: 2090,
+        calculated_BV: 2090,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2584,
+        name: "Emperor EMP-6S",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2065,
+        calculated_BV: 2065,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2585,
+        name: "Emperor EMP-7L",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2179,
+        calculated_BV: 2179,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2586,
+        name: "Highlander HGN-694",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2369,
+        calculated_BV: 2369,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2587,
+        name: "Highlander HGN-732",
+        role: "Sniper",
+        tons: 90,
+        BV: 2227,
+        calculated_BV: 2227,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2588,
+        name: "Highlander HGN-732b",
+        role: "Sniper",
+        tons: 90,
+        BV: 2335,
+        calculated_BV: 2335,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2589,
+        name: "Highlander HGN-734",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2214,
+        calculated_BV: 2214,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2590,
+        name: "Highlander HGN-736",
+        role: "Sniper",
+        tons: 90,
+        BV: 2255,
+        calculated_BV: 2255,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2591,
+        name: "Highlander HGN-738",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 2413,
+        calculated_BV: 2413,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2592,
+        name: "Highlander HGN-740",
+        role: "Sniper",
+        tons: 90,
+        BV: 2232,
+        calculated_BV: 2232,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2593,
+        name: "Highlander IIC",
+        role: "Missile Boat",
+        tons: 90,
+        BV: 2979,
+        calculated_BV: 2979,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2594,
+        name: "Highlander IIC 3",
+        role: "Missile Boat",
+        tons: 90,
+        BV: 3001,
+        calculated_BV: 3001,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2595,
+        name: "Highlander IIC 4",
+        role: "Missile Boat",
+        tons: 90,
+        BV: 2958,
+        calculated_BV: 2958,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2596,
+        name: "Juggernaut JG-R9T1",
+        role: "Juggernaut",
+        tons: 90,
+        BV: 1719,
+        calculated_BV: 1719,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2597,
+        name: "Kingfisher A",
+        role: "Brawler",
+        tons: 90,
+        BV: 2261,
+        calculated_BV: 2261,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2598,
+        name: "Kingfisher B",
+        role: "Brawler",
+        tons: 90,
+        BV: 2472,
+        calculated_BV: 2472,
+        gunnery: 4,
+        piloting: 4
+      },
+      {
+        id: 2599,
+        name: "Kingfisher C",
+        role: "Brawler",
+        tons: 90,
+        BV: 2644,
+        calculated_BV: 2644,
+        gunnery: 4,
+        piloting: 4
       }
 
     ]
