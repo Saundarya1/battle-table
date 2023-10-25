@@ -31549,6 +31549,7 @@ export const mechs = [
       {
         id: 2869,
         name: "Marauder II (Bounty Hunter)",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 3767,
@@ -31559,6 +31560,7 @@ export const mechs = [
       {
         id: 2870,
         name: "Marauder II C",
+        rules: "Standard",
         role: "Skirmisher",
         tons: 100,
         BV: 2916,
@@ -31569,6 +31571,7 @@ export const mechs = [
       {
         id: 2871,
         name: "Marauder II MAD-4H",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2180,
@@ -31579,6 +31582,7 @@ export const mechs = [
       {
         id: 2872,
         name: "Marauder II MAD-4K",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2626,
@@ -31589,6 +31593,7 @@ export const mechs = [
       {
         id: 2873,
         name: "Marauder II MAD-4L",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2839,
@@ -31599,6 +31604,7 @@ export const mechs = [
       {
         id: 2874,
         name: "Marauder II MAD-4S",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2623,
@@ -31609,6 +31615,7 @@ export const mechs = [
       {
         id: 2875,
         name: "Marauder II MAD-5A",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2058,
@@ -31619,6 +31626,7 @@ export const mechs = [
       {
         id: 2876,
         name: "Marauder II MAD-5B",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2589,
@@ -31629,6 +31637,7 @@ export const mechs = [
       {
         id: 2877,
         name: "Marauder II MAD-5C",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2024,
@@ -31639,6 +31648,7 @@ export const mechs = [
       {
         id: 2878,
         name: "Marauder II MAD-5W",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2383,
@@ -31649,6 +31659,7 @@ export const mechs = [
       {
         id: 2879,
         name: "Marauder II MAD-6A",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2367,
@@ -31659,6 +31670,7 @@ export const mechs = [
       {
         id: 2880,
         name: "Marauder II MAD-6D",
+        rules: "Standard",
         role: "Skirmisher",
         tons: 100,
         BV: 2378,
@@ -31669,6 +31681,7 @@ export const mechs = [
       {
         id: 2881,
         name: "Marauder II MAD-6S",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2546,
@@ -31679,6 +31692,7 @@ export const mechs = [
       {
         id: 2882,
         name: "Pillager PLG-3Z",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2697,
@@ -31689,6 +31703,7 @@ export const mechs = [
       {
         id: 2883,
         name: "Pillager PLG-4Z",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2868,
@@ -31699,6 +31714,7 @@ export const mechs = [
       {
         id: 2884,
         name: "Pillager PLG-5Z",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2939,
@@ -31709,6 +31725,7 @@ export const mechs = [
       {
         id: 2885,
         name: "Pillager PLG-6Z",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2714,
@@ -31719,6 +31736,7 @@ export const mechs = [
       {
         id: 2886,
         name: "Scylla",
+        rules: "Standard",
         role: "Missile Boat",
         tons: 100,
         BV: 2897,
@@ -31729,6 +31747,7 @@ export const mechs = [
       {
         id: 2887,
         name: "Scylla 2",
+        rules: "Standard",
         role: "Brawler",
         tons: 100,
         BV: 2839,
@@ -31739,6 +31758,7 @@ export const mechs = [
       {
         id: 2888,
         name: "Scylla 3",
+        rules: "Standard",
         role: "Brawler",
         tons: 100,
         BV: 2820,
@@ -31749,6 +31769,7 @@ export const mechs = [
       {
         id: 2889,
         name: "Storm Giant",
+        rules: "Standard",
         role: "Missile Boat",
         tons: 100,
         BV: 2676,
@@ -31759,6 +31780,7 @@ export const mechs = [
       {
         id: 2890,
         name: "Storm Giant 2",
+        rules: "Standard",
         role: "Missile Boat",
         tons: 100,
         BV: 2891,
@@ -31769,6 +31791,7 @@ export const mechs = [
       {
         id: 2891,
         name: "Thunder Hawk TDK-7S",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2440,
@@ -31779,6 +31802,7 @@ export const mechs = [
       {
         id: 2892,
         name: "Thunder Hawk TDK-7X",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2577,
@@ -31789,6 +31813,7 @@ export const mechs = [
       {
         id: 2893,
         name: "Thunder Hawk TDK-7Y",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2489,
@@ -31799,6 +31824,7 @@ export const mechs = [
       {
         id: 2894,
         name: "Titan II TI-2P",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2143,
@@ -31809,6 +31835,7 @@ export const mechs = [
       {
         id: 2895,
         name: "Titan II TI-2PA",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2468,
@@ -31819,6 +31846,7 @@ export const mechs = [
       {
         id: 2896,
         name: "Titan TI-1Aj",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2328,
@@ -31829,6 +31857,7 @@ export const mechs = [
       {
         id: 2897,
         name: "Titan TI-1Ar",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2165,
@@ -31839,6 +31868,7 @@ export const mechs = [
       {
         id: 2898,
         name: "Tomahawk A",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2762,
@@ -31849,6 +31879,7 @@ export const mechs = [
       {
         id: 2899,
         name: "Tomahawk B",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 3323,
@@ -31859,6 +31890,7 @@ export const mechs = [
       {
         id: 2900,
         name: "Tomahawk C",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2985,
@@ -31869,6 +31901,7 @@ export const mechs = [
       {
         id: 2901,
         name: "Tomahawk II A",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2697,
@@ -31879,6 +31912,7 @@ export const mechs = [
       {
         id: 2902,
         name: "Tomahawk II B",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 3513,
@@ -31889,6 +31923,7 @@ export const mechs = [
       {
         id: 2903,
         name: "Tomahawk II C",
+        rules: "Standard",
         role: "Missile Boat",
         tons: 100,
         BV: 2938,
@@ -31899,6 +31934,7 @@ export const mechs = [
       {
         id: 2904,
         name: "Tomahawk II Prime",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 3334,
@@ -31909,6 +31945,7 @@ export const mechs = [
       {
         id: 2905,
         name: "Tomahawk Prime",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 3101,
@@ -31919,6 +31956,7 @@ export const mechs = [
       {
         id: 2906,
         name: "Vanquisher VQR-2A",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2234,
@@ -31929,6 +31967,7 @@ export const mechs = [
       {
         id: 2907,
         name: "Vanquisher VQR-2B",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2073,
@@ -31939,6 +31978,7 @@ export const mechs = [
       {
         id: 2908,
         name: "Vanquisher VQR-5V",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2332,
@@ -31949,6 +31989,7 @@ export const mechs = [
       {
         id: 2909,
         name: "Vanquisher VQR-7V",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2420,
@@ -31959,6 +32000,7 @@ export const mechs = [
       {
         id: 2910,
         name: "Xanthos XNT-4O",
+        rules: "Standard",
         role: "Sniper",
         tons: 100,
         BV: 2548,
@@ -31969,6 +32011,7 @@ export const mechs = [
       {
         id: 2911,
         name: "Xanthos XNT-5O",
+        rules: "Standard",
         role: "Skirmisher",
         tons: 100,
         BV: 2146,
@@ -31979,6 +32022,7 @@ export const mechs = [
       {
         id: 2912,
         name: "Xanthos XNT-6O",
+        rules: "Standard",
         role: "Juggernaut",
         tons: 100,
         BV: 2300,
@@ -31989,12 +32033,651 @@ export const mechs = [
       {
         id: 2913,
         name: "Xanthos XNT-7O",
+        rules: "Standard",
         role: "Brawler",
         tons: 100,
         BV: 2620,
         calculated_BV: 2620,
         gunnery: 4,
         piloting: 4
-      }
+      },
+      {
+        id: 2914,
+        name: "Celerity CLR-03-O",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 187,
+        calculated_BV: 187,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+        id: 2915,
+        name: "Celerity CLR-03-OA",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 275,
+        calculated_BV: 275,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+        id: 2916,
+        name: "Celerity CLR-03-OB",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 339,
+        calculated_BV: 339,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+        id: 2917,
+        name: "Celerity CLR-03-OC",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 202,
+        calculated_BV: 202,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+        id: 2918,
+        name: "Celerity CLR-03-OD",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 304,
+        calculated_BV: 304,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+        id: 2919,
+        name: "Celerity CLR-03-OE",
+        role: "Scout",
+        rules: "Advanced",
+        tons: 15,
+        BV: 919,
+        calculated_BV: 919,
+        gunnery: 4,
+        piloting: 4
+    },
+    {
+      id: 2920,
+      name: "Celerity CLR-03-OMM Rajah",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 15,
+      BV: 278,
+      calculated_BV: 278,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2921,
+      name: "Celerity CLR-04-R",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 15,
+      BV: 384,
+      calculated_BV: 384,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2922,
+      name: "Celerity CLR-05-X",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 15,
+      BV: 225,
+      calculated_BV: 225,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2923,
+      name: "Prey Seeker PY-SR10",
+      role: "Striker",
+      rules: "Advanced",
+      tons: 15,
+      BV: 595,
+      calculated_BV: 595,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2924,
+      name: "Prey Seeker PY-SR20",
+      role: "Striker",
+      rules: "Advanced",
+      tons: 15,
+      BV: 1060,
+      calculated_BV: 1060,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2925,
+      name: "Prey Seeker PY-SR30",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 15,
+      BV: 331,
+      calculated_BV: 331,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2926,
+      name: "Baboon Howler 6",
+      role: "Striker",
+      rules: "Advanced",
+      tons: 20,
+      BV: 550,
+      calculated_BV: 550,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2927,
+      name: "Butcherbird Ion Sparrow A",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 20,
+      BV: 501,
+      calculated_BV: 501,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2928,
+      name: "Butcherbird Ion Sparrow B",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 20,
+      BV: 626,
+      calculated_BV: 626,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2929,
+      name: "Butcherbird Ion Sparrow C",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 20,
+      BV: 889,
+      calculated_BV: 889,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2930,
+      name: "Butcherbird Ion Sparrow D",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 20,
+      BV: 1121,
+      calculated_BV: 1121,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+      id: 2931,
+      name: "Butcherbird Ion Sparrow Prime",
+      role: "Scout",
+      rules: "Advanced",
+      tons: 20,
+      BV: 885,
+      calculated_BV: 885,
+      gunnery: 4,
+      piloting: 4
+  },
+  {
+    id: 2932,
+    name: "Cossack C-1FC",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 20,
+    BV: 483,
+    calculated_BV: 483,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2933,
+    name: "Stinger IIC",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 20,
+    BV: 730,
+    calculated_BV: 730,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2934,
+    name: "Trooper TP-1R",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 20,
+    BV: 236,
+    calculated_BV: 236,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2935,
+    name: "Brigand LDT-5",
+    role: "Striker",
+    rules: "Advanced",
+    tons: 25,
+    BV: 762,
+    calculated_BV: 762,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2936,
+    name: "Commando COM-1A",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 25,
+    BV: 475,
+    calculated_BV: 475,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2937,
+    name: "Commando COM-1AK",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 25,
+    BV: 533,
+    calculated_BV: 533,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2938,
+    name: "Commando COM-8S",
+    role: "Striker",
+    rules: "Advanced",
+    tons: 25,
+    BV: 775,
+    calculated_BV: 775,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2939,
+    name: "Eagle EGL-3M",
+    role: "Brawler",
+    rules: "Advanced",
+    tons: 25,
+    BV: 645,
+    calculated_BV: 645,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2940,
+    name: "Ebony MEB-12",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 25,
+    BV: 1837,
+    calculated_BV: 1837,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2941,
+    name: "Ebony MEB-13",
+    role: "Scout",
+    rules: "Advanced",
+    tons: 25,
+    BV: 750,
+    calculated_BV: 750,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2942,
+    name: "Fire Falcon R",
+    role: "Striker",
+    rules: "Advanced",
+    tons: 25,
+    BV: 846,
+    calculated_BV: 846,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2943,
+    name: "Gunsmith CH11-NG",
+    role: "Striker",
+    rules: "Advanced",
+    tons: 25,
+    BV: 1465,
+    calculated_BV: 1465,
+    gunnery: 4,
+    piloting: 4
+},
+{
+    id: 2944,
+    name: "Gunsmith CH11-NGC Cinderella",
+    role: "Striker",
+    rules: "Advanced",
+    tons: 25,
+    BV: 1519,
+    calculated_BV: 1519,
+    gunnery: 4,
+    piloting: 4
+},
+{
+  id: 2945,
+  name: "Icestorm 2",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 25,
+  BV: 868,
+  calculated_BV: 868,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2946,
+  name: "Locust IIC 10",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 25,
+  BV: 1248,
+  calculated_BV: 1248,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2947,
+  name: "Mjolnir MLR-B2",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 25,
+  BV: 670,
+  calculated_BV: 670,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2948,
+  name: "Mjolnir MLR-BX",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 25,
+  BV: 612,
+  calculated_BV: 612,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2949,
+  name: "Nexus NXS1-C",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 25,
+  BV: 804,
+  calculated_BV: 804,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2950,
+  name: "Pathfinder PFF-2",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 25,
+  BV: 452,
+  calculated_BV: 452,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2951,
+  name: "Star Python",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 25,
+  BV: 1234,
+  calculated_BV: 1234,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2952,
+  name: "Tarantula ZPH-5A",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 25,
+  BV: 806,
+  calculated_BV: 806,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2953,
+  name: "Cadaver CVR-T1",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1288,
+  calculated_BV: 1288,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2954,
+  name: "Cricket RWN-01",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1169,
+  calculated_BV: 1169,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2955,
+  name: "Cricket RWN-02",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1169,
+  calculated_BV: 1169,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2956,
+  name: "Dola DOL-1A1",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 30,
+  BV: 950,
+  calculated_BV: 950,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2957,
+  name: "Firefly FFL-5A",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 996,
+  calculated_BV: 996,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2958,
+  name: "Hellion G",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1614,
+  calculated_BV: 1614,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2959,
+  name: "Incubus II",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1261,
+  calculated_BV: 1261,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2960,
+  name: "Jackalope JLP-KA",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1488,
+  calculated_BV: 1488,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2961,
+  name: "Jackalope JLP-KW",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1334,
+  calculated_BV: 1334,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2962,
+  name: "Malak C-MK-O",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 758,
+  calculated_BV: 758,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2963,
+  name: "Malak C-MK-OE",
+  role: "Missile Boat",
+  rules: "Advanced",
+  tons: 30,
+  BV: 957,
+  calculated_BV: 957,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2964,
+  name: "Mantis MTS-S",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1128,
+  calculated_BV: 1128,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2965,
+  name: "Mantis MTS-T",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1312,
+  calculated_BV: 1312,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2966,
+  name: "Mantis SA-MN",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 30,
+  BV: 704,
+  calculated_BV: 704,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2967,
+  name: "Nyx NX-110",
+  role: "Scout",
+  rules: "Advanced",
+  tons: 30,
+  BV: 805,
+  calculated_BV: 805,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2968,
+  name: "Pack Hunter II 4",
+  role: "Sniper",
+  rules: "Advanced",
+  tons: 30,
+  BV: 1447,
+  calculated_BV: 1447,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2969,
+  name: "Revenant UBM-2R",
+  role: "Striker",
+  rules: "Advanced",
+  tons: 30,
+  BV: 779,
+  calculated_BV: 779,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2970,
+  name: "Revenant UBM-2R2",
+  role: "Missile Boat",
+  rules: "Advanced",
+  tons: 30,
+  BV: 630,
+  calculated_BV: 630,
+  gunnery: 4,
+  piloting: 4
+},
+{
+  id: 2971,
+  name: "Revenant UBM-2R3",
+  role: "Sniper",
+  rules: "Advanced",
+  tons: 30,
+  BV: 770,
+  calculated_BV: 770,
+  gunnery: 4,
+  piloting: 4
+}
 
     ]
